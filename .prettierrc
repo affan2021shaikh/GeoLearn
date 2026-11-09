@@ -1,0 +1,9 @@
+{
+  "$schema": "https://www.schemastore.org/prettierrc.json",
+  "overrides": [
+    {
+      "files": ".prettierrc",
+      "options": { "parser": "json" }
+    }
+  ]
+}
